@@ -21,11 +21,16 @@
 
 Você pode entrar em contato comigo através dessas contas:
 
- 
+- 
 <a href="https://discord.gg/J4fHeQx">
      <img align="left" alt="José Mayke  | Discord" width="26px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/discord.svg" />
  </a>
 
 <a href="https://www.linkedin.com/feed/?trk=onboarding-landing">
-     <img align="left" alt="Wellington Rodrigues | Linkedin" width="24px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Linkedin.svg" />
+     <img align="left" alt="José Mayke | Linkedin" width="24px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Linkedin.svg" />
   </a>
+
+<a href="mailto:maykekero@gmail.com">
+     <img align="left" alt="José Mayke | Gmail" width="24px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Gmail.svg" />
+  </a>
+  
