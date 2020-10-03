@@ -21,7 +21,7 @@
 
 Você pode entrar em contato comigo através dessas contas:
 
-- 
+
 <a href="https://discord.gg/J4fHeQx">
      <img align="left" alt="José Mayke  | Discord" width="26px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/discord.svg" />
  </a>
@@ -30,7 +30,7 @@ Você pode entrar em contato comigo através dessas contas:
      <img align="left" alt="José Mayke | Linkedin" width="24px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Linkedin.svg" />
   </a>
 
-<a href="mailto:maykekero@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
      <img align="left" alt="José Mayke | Gmail" width="24px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Gmail.svg" />
   </a>
   
